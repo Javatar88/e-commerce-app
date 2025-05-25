@@ -1,0 +1,15 @@
+spring:
+  cloud:
+    config:
+      override-system-properties: false
+
+eureka:
+  instance:
+    hostname: localhost
+
+
+
+management:
+  tracing:
+    sampling:
+      probability: 1.0

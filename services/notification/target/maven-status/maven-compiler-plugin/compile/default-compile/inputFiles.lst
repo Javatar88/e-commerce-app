@@ -1,0 +1,12 @@
+E:\Development\sourceCode\e-commerce-app\services\notification\src\main\java\com\ecommerce\notification\entties\Notification.java
+E:\Development\sourceCode\e-commerce-app\services\notification\src\main\java\com\ecommerce\notification\kafka\consumer\NotificationConsumer.java
+E:\Development\sourceCode\e-commerce-app\services\notification\src\main\java\com\ecommerce\notification\kafka\consumer\order\Product.java
+E:\Development\sourceCode\e-commerce-app\services\notification\src\main\java\com\ecommerce\notification\enums\NotificationType.java
+E:\Development\sourceCode\e-commerce-app\services\notification\src\main\java\com\ecommerce\notification\repository\NotificationRepository.java
+E:\Development\sourceCode\e-commerce-app\services\notification\src\main\java\com\ecommerce\notification\kafka\consumer\order\Customer.java
+E:\Development\sourceCode\e-commerce-app\services\notification\src\main\java\com\ecommerce\notification\kafka\consumer\payment\PaymentMethod.java
+E:\Development\sourceCode\e-commerce-app\services\notification\src\main\java\com\ecommerce\notification\kafka\consumer\order\OrderConfirmation.java
+E:\Development\sourceCode\e-commerce-app\services\notification\src\main\java\com\ecommerce\notification\enums\EmailTemplates.java
+E:\Development\sourceCode\e-commerce-app\services\notification\src\main\java\com\ecommerce\notification\email\EmailService.java
+E:\Development\sourceCode\e-commerce-app\services\notification\src\main\java\com\ecommerce\notification\kafka\consumer\payment\PaymentConfirmation.java
+E:\Development\sourceCode\e-commerce-app\services\notification\src\main\java\com\ecommerce\notification\NotificationApplication.java

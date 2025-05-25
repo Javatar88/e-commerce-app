@@ -1,0 +1,16 @@
+com\ecommerce\product\model\ProductPurchaseRequest.class
+com\ecommerce\product\service\ProductService.class
+com\ecommerce\product\Exception\ProductPurchaseException.class
+com\ecommerce\product\model\ProductResponse.class
+com\ecommerce\product\entity\Category.class
+com\ecommerce\product\ProductApplication.class
+com\ecommerce\product\controller\ProductController.class
+com\ecommerce\product\entity\Product.class
+com\ecommerce\product\Exception\ErrorResponse.class
+com\ecommerce\product\entity\Product$ProductBuilder.class
+com\ecommerce\product\mapper\ProductMapper.class
+com\ecommerce\product\Exception\CustomerExceptionHandler.class
+com\ecommerce\product\model\ProductPurchaseResponse.class
+com\ecommerce\product\model\ProductRequest.class
+com\ecommerce\product\entity\Category$CategoryBuilder.class
+com\ecommerce\product\repository\ProductRepository.class

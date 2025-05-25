@@ -1,0 +1,13 @@
+com\ecommerce\notification\email\EmailService.class
+com\ecommerce\notification\kafka\consumer\NotificationConsumer.class
+com\ecommerce\notification\entties\Notification.class
+com\ecommerce\notification\repository\NotificationRepository.class
+com\ecommerce\notification\kafka\consumer\order\OrderConfirmation.class
+com\ecommerce\notification\kafka\consumer\order\Customer.class
+com\ecommerce\notification\NotificationApplication.class
+com\ecommerce\notification\entties\Notification$NotificationBuilder.class
+com\ecommerce\notification\enums\NotificationType.class
+com\ecommerce\notification\kafka\consumer\payment\PaymentMethod.class
+com\ecommerce\notification\enums\EmailTemplates.class
+com\ecommerce\notification\kafka\consumer\order\Product.class
+com\ecommerce\notification\kafka\consumer\payment\PaymentConfirmation.class

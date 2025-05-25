@@ -1,0 +1,12 @@
+E:\Development\sourceCode\e-commerce-app\services\customer\src\main\java\com\ecommerce\customer\controller\CustomerController.java
+E:\Development\sourceCode\e-commerce-app\services\customer\src\main\java\com\ecommerce\customer\CustomerApplication.java
+E:\Development\sourceCode\e-commerce-app\services\customer\src\main\java\com\ecommerce\customer\dto\CustomerRequest.java
+E:\Development\sourceCode\e-commerce-app\services\customer\src\main\java\com\ecommerce\customer\dto\CustomerResponse.java
+E:\Development\sourceCode\e-commerce-app\services\customer\src\main\java\com\ecommerce\customer\exception\CustomerExceptionHandler.java
+E:\Development\sourceCode\e-commerce-app\services\customer\src\main\java\com\ecommerce\customer\exception\CustomerNotFoundException.java
+E:\Development\sourceCode\e-commerce-app\services\customer\src\main\java\com\ecommerce\customer\exception\ErrorResponse.java
+E:\Development\sourceCode\e-commerce-app\services\customer\src\main\java\com\ecommerce\customer\mapper\CustomerMapper.java
+E:\Development\sourceCode\e-commerce-app\services\customer\src\main\java\com\ecommerce\customer\model\Address.java
+E:\Development\sourceCode\e-commerce-app\services\customer\src\main\java\com\ecommerce\customer\model\Customer.java
+E:\Development\sourceCode\e-commerce-app\services\customer\src\main\java\com\ecommerce\customer\repository\CustomerRepository.java
+E:\Development\sourceCode\e-commerce-app\services\customer\src\main\java\com\ecommerce\customer\service\CustomerService.java
